@@ -25,5 +25,5 @@ The Hotel Reservation System is a Java-based application designed to manage hote
 
  # **Contribution**
 
- Feel free to contribute to the game by reporting issues or submitting pull requests. If you'd like to suggest new features, improvements, or fixes, please open an issue or submit a pull request with your changes
+ Feel free to contribute to the project by reporting issues or submitting pull requests. If you'd like to suggest new features, improvements, or fixes, please open an issue or submit a pull request with your changes
 
