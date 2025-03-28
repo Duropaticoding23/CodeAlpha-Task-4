@@ -2,7 +2,7 @@
 
 # **Hotel Reservation System**
 
-#** Introduction:**
+# ** Introduction:**
 
 The Hotel Reservation System is a Java-based application designed to manage hotel room reservations. The system allows users to search for available rooms, make reservations, and view booking details.
 
@@ -23,7 +23,7 @@ The Hotel Reservation System is a Java-based application designed to manage hote
     - View Reservations: View all reservations, including room type, price, and customer name.
     - Exit: Exit the application.
 
-   # **Contribution**
+ # **Contribution**
 
  Feel free to contribute to the game by reporting issues or submitting pull requests. If you'd like to suggest new features, improvements, or fixes, please open an issue or submit a pull request with your changes
 
