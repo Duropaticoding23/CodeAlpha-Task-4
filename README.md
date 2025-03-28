@@ -2,7 +2,7 @@
 
 # **Hotel Reservation System**
 
-# ** Introduction:**
+# **Introduction**
 
 The Hotel Reservation System is a Java-based application designed to manage hotel room reservations. The system allows users to search for available rooms, make reservations, and view booking details.
 
